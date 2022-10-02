@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jeremy, a senior at Boston College studying Computer Science
+# Hi there 👋 I'm Jeremy, a senior at Boston College studying Computer Science
 
 ## My interests are in Machine Learning/Data Science and their Applications
 
