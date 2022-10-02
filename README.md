@@ -1,12 +1,12 @@
 # Hi there 👋 I'm Jeremy, a senior at Boston College studying Computer Science
 
-## My interests are in Machine Learning/Data Science and their Applications
+### My interests are in Machine Learning/Data Science and their Applications
 
-## I am currently doing an Honors Thesis at Boston College in the Topic of Social Contagion, and do side projects occasionally on the side. Please check my Repositories to see what I've done so far!
+### I am currently doing an Honors Thesis at Boston College in the Topic of Social Contagion, and do side projects occasionally on the side. Please check my Repositories to see what I've done so far!
 
-## Reach me at jeremy.chan.2@bc.edu
+### Reach me at jeremy.chan.2@bc.edu
 
-## Some of my other interests are Muay Thai, MMA, Soccer, Football, Basketball, and the Cello.
+### Some of my other interests are Muay Thai, MMA, Soccer, Football, Basketball, and the Cello.
 
 
 
