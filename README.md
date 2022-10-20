@@ -6,7 +6,8 @@
 
 ### Reach me at jeremy.chan.2@bc.edu
 
-### Some of my other interests are Muay Thai, MMA, Soccer, Football, Basketball, and the Cello.
+<a href="https://www.linkedin.com/in/jeremyhudsonchan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jeremyhudsonchan/" height="30" width="40" /></a>
+</p>
 
 
 
