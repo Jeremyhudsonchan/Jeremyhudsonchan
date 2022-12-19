@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeremyhudsonchan" alt="jeremyhudsonchan" /></a> </p>
 
-- 🔭 I’m currently working on an Honors Thesis at Boston College in the Topic of Social Contagion **Assessing the Social Transmission of Violent Incidents in Officer Networks using Graph Neural Networks**. Additional Projects that I am working on: **Twitter Sentiment Analysis of Politicians. Investigating the relationship between Elon Musk, Twitter Users, and Other Platforms. Text Extraction from Images/Video, and conducting Sentiment Analysis and Word Predictions.**
+- 🔭 I’m currently working on an Honors Thesis at Boston College in the Topic of Social Contagion **Assessing the Social Transmission of Violent Incidents in Officer Networks using Graph Neural Networks**. Interested in learning more about the theory and applications of Machine Learning/Data Science, Machine Learning Operations, Large Scale Data Processing.
 
 - 📫 How to reach me **jeremy.chan.2@bc.edu**
 
