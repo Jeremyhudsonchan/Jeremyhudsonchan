@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on an Honors Thesis at Boston College in the Topic of Social Contagion **Assessing the Social Transmission of Violent Incidents in Officer Networks using Graph Neural Networks**. Interested in learning more about the theory and applications of Machine Learning/Data Science, Machine Learning Operations, Large Scale Data Processing.
 
-- 📫 How to reach me **jeremy.chan.2@bc.edu**
+- 📫 How to reach me **jeremyhudsonchan@gmail.com**
 
 - ⚡ Fun fact **I want to have an amateur Muay Thai fight**
 
