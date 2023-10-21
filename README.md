@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jeremy Hudson Chan</h1>
-<h3 align="center">A Senior @ Boston College studying CS</h3>
+<h3 align="center">A Data Scientist/Machine Learning Engineer @ Ernst & Young</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeremyhudsonchan&label=Profile%20views&color=0e75b6&style=flat" alt="jeremyhudsonchan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeremyhudsonchan" alt="jeremyhudsonchan" /></a> </p>
 
-- 🔭 I’m currently working on an Honors Thesis at Boston College in the Topic of Social Contagion **Assessing the Social Transmission of Violent Incidents in Officer Networks using Graph Neural Networks**. Interested in learning more about the theory and applications of Machine Learning/Data Science, Machine Learning Operations, Large Scale Data Processing.
+- 🔭 I’m currently learning more about Graph Databases, Generative AI, and Reinforcement Learning.
 
 - 📫 How to reach me **jeremyhudsonchan@gmail.com**
 
