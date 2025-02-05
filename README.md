@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **jeremyhudsonchan@gmail.com**
 
-- ⚡ Fun fact **I want to have an amateur Muay Thai fight**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
