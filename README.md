@@ -9,6 +9,11 @@
 
 - 📫 How to reach me **jeremyhudsonchan@gmail.com**
 
+- Georgia Institute of Technology
+   _Masters of Science in Computer Science (In Progress)_
+- Boston College
+   _Bachelor of Arts in Computer Science, Minors in Mathematics and Finance (May 2023)_
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
