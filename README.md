@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeremyhudsonchan" alt="jeremyhudsonchan" /></a> </p>
 
-- 🔭 I’m currently learning more about Graph Databases, Generative AI, and Reinforcement Learning.
+- 🔭 Focused on Knowledge Graphs/Graph DBs, AI/ML Modelling, Generative AI, & Data Engineering.
 
 - 📫 How to reach me **jeremyhudsonchan@gmail.com**
 
