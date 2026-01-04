@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **jeremyhudsonchan@gmail.com**
 
+- New Website: https://jeremychan.dev/
+
 - Georgia Institute of Technology
   
    - _Masters of Science in Computer Science (In Progress)_
